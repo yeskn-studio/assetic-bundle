@@ -1,9 +1,9 @@
 {
-    "name": "symfony/assetic-bundle",
+    "name": "yeskn-studio/assetic-bundle",
     "description": "Integrates Assetic into Symfony2",
     "keywords": ["assets", "compression", "minification"],
-    "homepage": "https://github.com/symfony/AsseticBundle",
-    "type": "symfony-bundle",
+    "homepage": "https://github.com/yeskn-studio/assetic-bundle",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
